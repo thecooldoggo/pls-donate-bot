@@ -13,11 +13,11 @@ async def main():
     while True:
         pyautogui.typewrite("/")
         time.sleep(1)
-        pyautogui.typewrite("1 robux = 1 smurf cat freed from basement!")
+        pyautogui.typewrite("PUT MESSAGE 1 HERE")
         pyautogui.press("enter")
         time.sleep(15)
         pyautogui.typewrite("/")
         time.sleep(1)
-        pyautogui.typewrite("wanna free any?")
+        pyautogui.typewrite("PUT MESSAGE 2 HERE")
         time.sleep(15)
 if __name__ == "__main__":    asyncio.get_event_loop().run_until_complete(main())
