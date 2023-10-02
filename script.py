@@ -12,7 +12,7 @@ message_count = 0
 while True:
     pyautogui.typewrite("/")
     time.sleep(1)
-    pyautogui.typewrite("CUSTOM MESSAGE 1")
+    pyautogui.typewrite("MESSAGE 1")
     pyautogui.press("enter")
     message_count += 1
     if message_count % random.randint(3, 7) == 0:
