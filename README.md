@@ -14,5 +14,9 @@ Next, Install the necessary dependency for the auto-type. Open your terminal and
   pip3 install pyautogui
 ```
 After a few seconds it should finishing installing. 
-Then download this github and run the script.py file!
+Then download this github and Change the MESSAGE 1 to be whatever message you want, like "donate?" Then set MISSPELLED MESSAGE 1 to be a common misspeling of the word, like "donoate?"
+Repeat this step for the second one too!
+
+Now open roblox and run the script!
+
 NOTE: spamming multiple messages and using the word "robux" WILL get you banned! This is not my liability, so use this wisely!
