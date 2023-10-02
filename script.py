@@ -1,9 +1,7 @@
 import asyncio
-from dotenv import load_dotenv
 import webbrowser
 import pyautogui
 import time
-load_dotenv()
 
 async def main():
     print("Welcome to the pls donate bot!")
