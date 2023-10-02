@@ -15,3 +15,4 @@ Next, Install the necessary dependency for the auto-type. Open your terminal and
 ```
 After a few seconds it should finishing installing. 
 Then download this github and run the script.py file!
+NOTE: spamming multiple messages and using the word "robux" WILL get you banned! This is not my liability, so use this wisely!
