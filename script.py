@@ -18,7 +18,7 @@ while True:
     if message_count % random.randint(3, 7) == 0:
         pyautogui.typewrite("/")
         time.sleep(1)
-        pyautogui.typewrite("MISSPELLED MESSAGE 1")
+        pyautogui.typewrite("MISSEPELLED MESSAGE 1")
         pyautogui.press("enter")
     sleep_time = random.randint(20, 100)
     time.sleep(sleep_time)
@@ -29,7 +29,7 @@ while True:
     if message_count % random.randint(3, 7) == 0:
         pyautogui.typewrite("/")
         time.sleep(1)
-        pyautogui.typewrite("MISSPELLED MESSAGE 2")
+        pyautogui.typewrite("MISPELLED MESSAGE 2")
         pyautogui.press("enter")
     message_count += 1
     sleep_time = random.randint(20, 100)
