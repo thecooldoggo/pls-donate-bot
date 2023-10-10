@@ -19,7 +19,7 @@ And also,
 ```
 After a few seconds it should finishing installing. 
 Then download this github and Change the MESSAGE 1 to be whatever message you want, like "donate?" Then set MISSPELLED MESSAGE 1 to be a common misspeling of the word, like "donoate?"
-Repeat this step for the second one too!
+Repeat this step for the rest of them too!
 
 Now open roblox and run the script!
 
