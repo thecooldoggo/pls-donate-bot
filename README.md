@@ -16,6 +16,7 @@ A simple python bot for sending pls donate messages in roblox chat.
 * More coming soon! Make a suggestion or pull request.
 
 # Before you begin
+* This code is NOT meant to be used for any malicious intents, only as a proof of concept and idea.
 * Spamming multiple messages quickly and using the word "robux" ***WILL*** get you banned! This has happend to me! This is ***NOT*** my liability, so use this wisely!
 * Make sure to include misplessings and a lot of variety in messages for uniqueness.
 
