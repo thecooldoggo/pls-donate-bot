@@ -1,7 +1,7 @@
 
 ## Reporting a Vulnerability
 
-Thank you for your interest in contributing to the security of this project!
+Thank you for your interest in contributing to the security of this project,
 
 If you believe you have found a security vulnerability, please follow these steps:
 
