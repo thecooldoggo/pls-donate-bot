@@ -24,11 +24,19 @@ A simple python bot for sending pls donate messages in roblox chat.
 First off, install python.
 Open your browser of choice and go to https://www.python.org/downloads/ and download python.
 
-Next, Install the necessary dependency for the auto-type. Open your terminal and type
+Next, Install the necessary dependency for the auto-type. 
+</br>
+### Windows </br>
+Open your terminal and type
+```bash
+  py -m pip install pyautogui
+```
+### MacOS & Linux </br>
+Open your terminal and type
 ```bash
   pip3 install pyautogui
 ```
-Next, go to releases in this github and download the .zip file. Run the .py file and enter your messages with a new line after each one. Open roblox and press start at the bottom to start the script.
+Next, go to releases in this github and download the .zip file. Run the .py file and enter your messages with a new line after each one. Open roblox and press start at the bottom to start the script. </br>
 NOTE: spamming multiple messages quickly and using the word "robux" WILL get you banned! This is not my liability, so use this wisely!
 
 ## Complex Installation - Recommend if you want more control
@@ -36,7 +44,18 @@ NOTE: spamming multiple messages quickly and using the word "robux" WILL get you
 First off, install python.
 Open your browser of choice and go to https://www.python.org/downloads/ and download python.
 
-Next, Install the necessary dependency for the auto-type. Open your terminal and type
+Next, Install the necessary dependency for the auto-type. 
+### </br> Windows </br>
+Open your terminal and type
+```bash
+  py -m pip install pyautogui
+```
+And also, </br>
+```bash
+  py -m pip install termcolor
+```
+### </br> MacOS & Linux. </br>
+Open your terminal and type,
 ```bash
   pip3 install pyautogui
 ```
@@ -45,7 +64,7 @@ And also,
   pip3 install termcolor
 ```
 After a few seconds it should finishing installing. 
-Then download this github and Change the MESSAGE 1 to be whatever message you want, like "donate?" Then set MISSPELLED MESSAGE 1 to be a common misspeling of the word, like "donoate?"
+Download the Chat+anti_afk.py or just_afk_no_chat.py respectively. Edit the .py file in a code editing software and change the MESSAGE 1 to be whatever message you want, like "donate?" Then set MISSPELLED MESSAGE 1 to be a common misspeling of the word, like "donoate?" </br>
 Repeat this step for the rest of them too!
 
 Now open roblox and run the script!
