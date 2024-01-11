@@ -30,8 +30,7 @@ canvas = tk.Canvas(window, width=800, height=600)
 canvas.pack(fill="both", expand=True)
 bg_image = PhotoImage(file="bg1.png")
 canvas.create_image(0, 0, image=bg_image, anchor="nw")
-
-label = tk.Label(text="Enter your messages to send above: (one per line)")
+label = tk.Label(text="Enter your messages to send above: (one per line) When you press start you will have 5 seconds to click on the roblox window.")
 label.pack()
 
 def get_messages():
